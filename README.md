@@ -10,6 +10,7 @@ To review outcomes based on launch date, I created a pivot table and filtered th
 When reviewing the data and more specifically the chart, the better outcomes for the successful campaigns seem to be in the spring and then trend downward during the summer. The Failed campaigns did not have any significant increases or decreases when looking at the months launched. The number of total campaigns was 1369. The total successful was 839, failed 493, and canceled 37. The highest number of successful campaigns was in May, that number being 111 successful (67%) followed by Jun at 100 (65%). The highest number of failed campaigns was also in May at 52 (31%). But it also should be noted May and June also had the highest total number of campaigns launched at 166 and 153. Given the data, the average success rate was around 60% and failed 36% overall through the year. The Month with the highest percentage failed is December at a 47% failure rate.
 
 ![image](https://user-images.githubusercontent.com/88061345/129421156-9c7439d9-8547-47bd-8ec8-a5177d87727f.png)
+
 ![image](https://user-images.githubusercontent.com/88061345/129421164-5a7e692b-8586-41ae-b419-aad5d5297883.png)
 ![image](https://user-images.githubusercontent.com/88061345/129421254-f79e85c4-51b3-42c8-9bdf-424c9472831d.png)
 ## Analysis of Outcomes Based on Goals
