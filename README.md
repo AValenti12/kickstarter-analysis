@@ -24,15 +24,15 @@ The main challenge I encountered was pulling the data from the kick-starter to t
 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date? 
-- 
+What are two conclusions you can draw about the Outcomes based on Launch Date? 
+
 There are more plays/fundraising campaigns during the spring and that is also the highest number of successful outcomes. May specifically had the highest number of launched campaigns and also the highest number/percentage of successful campaigns.  If launching a campaign for theater/plays, I would suggest doing so in May. And one might want to avoid the month of December for launching a theater/play campaign as that month had the highest failed percentage.
 
- What can you conclude about the Outcomes based on Goals? 
+What can you conclude about the Outcomes based on Goals? 
 
 There is a better chance of being successful if there is a lower goal. Given the data and charts, a campaign with a higher goal is more likely to fail.
 
- What are some limitations of this dataset? 
+What are some limitations of this dataset? 
 The limitations in this data set are insufficient data in the projects with higher initial goals. Also, I am unsure if the dataset may include incomplete data, we may be missing data that might not have been recorded.
 
 What are some other possible tables and/or graphs that we could create?
