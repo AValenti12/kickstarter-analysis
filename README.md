@@ -8,12 +8,14 @@ Given the kick-starter spreadsheet, we then compared theater outcomes based on l
 To review outcomes based on launch date, I created a pivot table and filtered the outcomes by category and launch date. This allows us to see the total campaigns that were successful, failed, and canceled. I then created a line chart to help further visualize the data. I then wanted to analyze the data further and wanted to see the percentages of successful vs failed regarding launch dates. 
 
 When reviewing the data and more specifically the chart, the better outcomes for the successful campaigns seem to be in the spring and then trend downward during the summer. The Failed campaigns did not have any significant increases or decreases when looking at the months launched. The number of total campaigns was 1369. The total successful was 839, failed 493, and canceled 37. The highest number of successful campaigns was in May, that number being 111 successful (67%) followed by Jun at 100 (65%). The highest number of failed campaigns was also in May at 52 (31%). But it also should be noted May and June also had the highest total number of campaigns launched at 166 and 153. Given the data, the average success rate was around 60% and failed 36% overall through the year. The Month with the highest percentage failed is December at a 47% failure rate.
+
 ![image](https://user-images.githubusercontent.com/88061345/129421156-9c7439d9-8547-47bd-8ec8-a5177d87727f.png)
 ![image](https://user-images.githubusercontent.com/88061345/129421164-5a7e692b-8586-41ae-b419-aad5d5297883.png)
 ![image](https://user-images.githubusercontent.com/88061345/129421254-f79e85c4-51b3-42c8-9bdf-424c9472831d.png)
 ## Analysis of Outcomes Based on Goals
 To analyze the outcomes based on goals, a table was created and then filtered the data from the kick-starter spreadsheet to only show Theater and Plays. I used a COUNTIF formula with multiple criteria to show number of successful, failed and canceled campaigns based on goal range. I then calculated the percentages of successful, failed, and canceled to the total number of projects in each goal range.
 The two highest percentage of successful campaigns at 74.9% and 72.66%, also had the lowest goals of <$1,000 and $1,000-$4,999. The Two highest failed campaigns, at 87.5% and 100% had the highest goals at $45,000-$49,999 and >$50,000. The data shows that you have a higher probability to meet your goal if the goal is lower. The higher the goal, the less likely you are to be successful.
+
 ![image](https://user-images.githubusercontent.com/88061345/129421287-1a1c8866-b111-427f-9790-8b0b85d1dd14.png)
 ![image](https://user-images.githubusercontent.com/88061345/129421295-551caf7b-da57-49db-963a-bda19d83be62.png)
 ## Challenges and Difficulties Encountered 
